@@ -1,1 +1,18 @@
-
+body{
+  font-family: Serif, Tahoma, Verdana, sans-serif;
+}
+div {
+    height: 50px;
+    width: 120px;
+    border-color: #004d00;
+    background-color: #BCD2EE;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+}
+a {
+     text-decoration: none;
+     color: #ff471a;
+     font-family: Cursive;
+}
